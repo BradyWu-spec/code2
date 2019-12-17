@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lakki+Reddy&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="top">
+        <header>
+            Toy Shop (Christmas Sale 30% OFF)
+        </header>
+        <h1>
+            The World's BEST Toy Shop 
+        </h1>
+        <img id="headingimage" src="https://sites.create-cdn.net/siteimages/9/8/2/98296/10/0/6/10063750/500x361.jpg?1433937424" alt="#">
+    </div>
+    <div class="allitmes">
+        <div class="item">
+            <img class="itemimage" src="https://internetofbusiness.com/wp-content/uploads/2017/11/toys-2165123_640-640x463.jpg"alt="#">
+            <div class="text">
+                <h2>
+                    Toys For Kids
+                </h2>
+                <p>
+                    Toys for kids (ages 4-12)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="item">
+        <img class="itemimage" src="https://nerdbot.com/wp-content/uploads/2019/05/gaming.jpg" alt="#">
+        <div class="text">
+            <h2>
+                Video Games 
+            </h2>
+            <p>
+                Games for all ages. Great games for PCs, Nintendo Switches, Xbox, and PlayStations.
+            </p>
+        </div>
+    </div>
+</body>
+</html>
