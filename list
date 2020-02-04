@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href=".css"
+</head>
+<body>
+    <h1>
+        <ol>
+            <li>House 
+                <img src=https://assets.themortgagereports.com/wp-content/uploads/2017/12/How-to-Buy-a-House-with-Low-Income-This-Year.jpg> </li>
+            <li>House
+                <img src=https://static.onecms.io/wp-content/uploads/sites/37/2019/06/12170341/blue-house-exterior-turquoise-door-c3a16493.jpg></li>
+            <li>House
+                <img src=https://charlotteagenda-charlotteagenda.netdna-ssl.com/wp-content/uploads/2019/07/July-open-houses-header-1.jpg></li>
+        </ol>
+    </h1>
+</body>
+</html>
+<h2>
+
+</h2>
